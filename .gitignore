@@ -219,3 +219,5 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 data/team-time-series-10000.xlsx
+data/team-time-series-1000.xlsx
+data/team-time-series-100.xlsx
